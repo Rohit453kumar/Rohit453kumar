@@ -1,16 +1,21 @@
-## Hi there 👋
+#    Hi👋 I am Rohit kumar
+ I am an aspiring Data Scientist who are proficient to solve the problems by means of data
 
-<!--
-**Rohit453kumar/Rohit453kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+->Implementing Computer Vision projects using CNN architectures
+
+->Building end-to-end ML pipelines with MLOps best practices
+
+
+->Exploring Large Language Models (LLMs) and their applications
+
+->Statistical Analysis and A/B Testing methodologies
+
+->Data Visualization with D3.js and Advanced Plotly
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email:rohit8025kumar@gmail.com
+- Linkedn:https://www.linkedin.com/in/rohit-kumar-583b8a228/
+
